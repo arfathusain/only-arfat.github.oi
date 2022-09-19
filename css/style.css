@@ -1,0 +1,63 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Merriweather:ital,wght@1,300&family=Open+Sans:wght@300;500;600;700;800&family=Oswald:wght@400;500&family=Poppins:wght@700&family=Roboto:wght@400;500;700;900&family=Sniglet&display=swap');
+
+.banner-container{
+      background-color: #cfc8d6;
+}
+
+.banner-column{
+      background-color: #616161;
+}
+
+.nana{
+      color: white;
+}
+
+.back{
+      background-color: rgb(20, 20, 19);
+}
+
+.nana:hover{
+      color: rgb(240, 0, 0);
+      transform: translateY(-5px);
+  box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+}
+
+.back1{
+      background-color: rgb(235, 138, 13);
+}
+
+.margin-1{
+      margin-top: 80px;
+}
+
+.a{
+      font-size: 35px;
+}
+
+/* .heding{
+      border: 2px solid green;
+      display: block;
+      padding: 20px;
+} */
+
+.para{
+      color: whitesmoke;
+      margin-top: 30px;
+      text-align: justify;
+      font-size: 17px;
+      font-weight: 700;
+      border: 2px solid gray;
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom: 40px;
+      box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+.para:hover{
+      transform: translateY(5px);
+      box-shadow: inset 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+}
+.arfat{
+      box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
