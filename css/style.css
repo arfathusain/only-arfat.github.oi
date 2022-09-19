@@ -61,3 +61,32 @@
 .arfat{
       box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
 }
+
+.sec1{
+      background-color: rgb(104, 128, 128);
+}
+
+.arfat2{
+      padding-top: 60px;
+      padding-bottom: 40px;
+}
+
+.arfat3{
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      background-color: coral;
+      margin-bottom: 20px;
+}
+.arfat5{
+      border: 1px solid white;
+      background-color: white;
+      box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+      margin: auto;
+      padding: 25px;
+      border-radius: 10px;
+      font-size: 17px;
+      margin-bottom: 30px;
+      margin-top: 20px;
+      font-weight: bold;
+}
